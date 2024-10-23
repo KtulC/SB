@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dime_Us\\source\\repos\\test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Source\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\program_logic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Source\\program_logic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Source\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\filesave.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Source\\filesave.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\App.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Source\\App.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Headers\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\filesave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Headers\\filesave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\program_logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Headers\\program_logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66B20323-77BF-45B5-BFD1-8EBD2CF8E973}|test1.vcxproj|solutionrelative:Headers\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.c",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\App.c",
+              "RelativeDocumentMoniker": "Source\\App.c",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\App.c",
+              "RelativeToolTip": "Source\\App.c",
+              "ViewState": "AgIAACACAAAAAAAAAAAIwD8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-16T18:40:36.58Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "render.c",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\render.c",
+              "RelativeDocumentMoniker": "Source\\render.c",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\render.c",
+              "RelativeToolTip": "Source\\render.c",
+              "ViewState": "AgIAAEwEAAAAAAAAAAAQwG8EAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-18T17:34:18.455Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "filesave.c",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\filesave.c",
+              "RelativeDocumentMoniker": "Source\\filesave.c",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\filesave.c",
+              "RelativeToolTip": "Source\\filesave.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-18T19:45:09.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "filesave.h",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\filesave.h",
+              "RelativeDocumentMoniker": "Headers\\filesave.h",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\filesave.h",
+              "RelativeToolTip": "Headers\\filesave.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-18T19:45:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\game.c",
+              "RelativeDocumentMoniker": "Source\\game.c",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\game.c",
+              "RelativeToolTip": "Source\\game.c",
+              "ViewState": "AgIAAOYBAAAAAAAAAADwvwoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-15T13:24:31.105Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program_logic.c",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\program_logic.c",
+              "RelativeDocumentMoniker": "Source\\program_logic.c",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Source\\program_logic.c",
+              "RelativeToolTip": "Source\\program_logic.c",
+              "ViewState": "AgIAAPoAAAAAAAAAAADwvx4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T20:15:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\game.h",
+              "RelativeDocumentMoniker": "Headers\\game.h",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\game.h",
+              "RelativeToolTip": "Headers\\game.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T13:23:45.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "render.h",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\render.h",
+              "RelativeDocumentMoniker": "Headers\\render.h",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\render.h",
+              "RelativeToolTip": "Headers\\render.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-17T06:30:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "program_logic.h",
+              "DocumentMoniker": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\program_logic.h",
+              "RelativeDocumentMoniker": "Headers\\program_logic.h",
+              "ToolTip": "C:\\Users\\Dime_Us\\source\\repos\\test1\\Headers\\program_logic.h",
+              "RelativeToolTip": "Headers\\program_logic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T20:14:29.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
